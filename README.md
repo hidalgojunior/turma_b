@@ -6,3 +6,5 @@
 
 - db.sql - Arquivos com instruçoes de banco de dados
 - README.md - Este arquivo de README.
+
+https://github.com/hidalgojunior/turma_b.git
